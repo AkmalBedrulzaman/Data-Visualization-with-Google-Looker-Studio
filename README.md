@@ -1,4 +1,4 @@
-# Data Visualization with Google Looker Studio by using Candidates GE15, Results Parliament GE15, Voters GE15 Dataset
+# Data Visualization with Google Looker Studio by using Candidates GE15 Dataset
 
 ## 2) [15th Malaysian General Election Results.pdf](https://github.com/AkmalBedrulzaman/AkmalBedrulzaman-Portfolio/files/10385645/15th.Malaysian.General.Election.Results.pdf) Dashboard with Google Looker Studio
 
